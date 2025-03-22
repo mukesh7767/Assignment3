@@ -1,1 +1,2 @@
+My local changes
 Another developer's changes
